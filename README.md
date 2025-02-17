@@ -1,1 +1,1 @@
-"Excursion" is a mobile phone application for touristst. Made on html
+"Excursion" is a mobile phone application for touristst. Created on HTML with visual, sound and video effects.  
